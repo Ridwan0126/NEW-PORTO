@@ -182,7 +182,7 @@ export const experiences = [
       "MySql",
       "Postman",
     ],
-    doc: "https://raw.githubusercontent.com/Ridwan0126/Porto/refs/heads/main/images/portfolios/1.png",
+    doc: "https://raw.githubusercontent.com/Ridwan0126/NEW-PORTO/refs/heads/main/src/images/il.jpg",
   },
   {
     id: 0,
@@ -203,7 +203,7 @@ export const experiences = [
       "MySql",
       "Postman",
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    doc: "https://raw.githubusercontent.com/Ridwan0126/NEW-PORTO/refs/heads/main/src/images/boot.jpg",
   },
 ];
 
@@ -236,7 +236,7 @@ export const projects = [
     description:
       "As part of the MSIB Batch 07 program, we developed an agriculture-themed application addressing waste and garbage issues. I took on the roles of Project Manager and Hacker. The application is designed for both web and mobile platforms.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://raw.githubusercontent.com/Ridwan0126/NEW-PORTO/refs/heads/main/src/images/pilah.png",
     tags: [
       "HTML",
       "CSS",
@@ -252,80 +252,80 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Ridwan0126/admin",
     webapp: "https://pilahyuk-admin.netlify.app",
-    member: [
-      {
-        name: "Muhamad Nur Ridwan",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Akhyar Nasrullah",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-      {
-        name: "Naya Tharisa",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Vargadio Razan",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-      {
-        name: "Lufan Fernanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Diah Ajeng",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-      {
-        name: "Rivaldi",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Said Agung",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-      {
-        name: "Nuryanti",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Ruth Grace",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-      {
-        name: "Muhammad Hanif",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Akbar Hafidz",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    // member: [
+    //   {
+    //     name: "Muhamad Nur Ridwan",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Akhyar Nasrullah",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Naya Tharisa",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Vargadio Razan",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Lufan Fernanda",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Diah Ajeng",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Rivaldi",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Said Agung",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Nuryanti",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Ruth Grace",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Muhammad Hanif",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Akbar Hafidz",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
   },
   {
     id: 0,
@@ -334,7 +334,7 @@ export const projects = [
     description:
       "We developed an application project for a competition with the theme A Better Future Education Platform. Our team successfully secured 3rd place in the National Coder Competition.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://raw.githubusercontent.com/Ridwan0126/NEW-PORTO/refs/heads/main/src/images/Frame%201321314442.png",
     tags: [
       "React Js",
       "MySql",
@@ -347,44 +347,44 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Ridwan0126/Inooverse_Ctrl-Alt-Win_Edugo",
     webapp: "https://keen-wisp-44cd4c.netlify.app",
-    member: [
-      {
-        name: "Muhamad Nur Ridwan",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Akhyar Nasrullah",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-      {
-        name: "Vargadio Razan",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Ferdian",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-      {
-        name: "Belva",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Sulfia",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    // member: [
+    //   {
+    //     name: "Muhamad Nur Ridwan",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Akhyar Nasrullah",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Vargadio Razan",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Ferdian",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    //   {
+    //     name: "Belva",
+    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     name: "Sulfia",
+    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     github: "https://github.com/upasana0710",
+    //   },
+    // ],
   },
   {
     id: 1,
@@ -393,7 +393,7 @@ export const projects = [
     description:
       "Developing an online queue management application for a university.",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://raw.githubusercontent.com/Ridwan0126/NEW-PORTO/refs/heads/main/src/images/Aplikasi%20Antrian%20Online.png",
     tags: ["PHP", "PHPMyAdmin", "HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/Ridwan0126/AplikasiAntrianOnline",
